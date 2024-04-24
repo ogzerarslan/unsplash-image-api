@@ -1,0 +1,24 @@
+.container{
+    width: 1450px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.search-input{
+    width: 100%;
+    height: 2rem;
+    border: 1px solid yellow;
+    border-radius: 1rem;
+}
+.ne{
+    font-size: 2rem;
+    font-weight: 700;
+    
+}
+.imageList{
+    columns: 250px 3;
+    column-gap: 10px;
+}
+.img-list-img{
+    width: 100%;
+    margin-bottom: 10px;
+}
